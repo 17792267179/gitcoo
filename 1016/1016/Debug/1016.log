@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\daima\1016\1016\源.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+d:\daima\1016\1016\源.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  1016.vcxproj -> D:\daima\1016\Debug\1016.exe

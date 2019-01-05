@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\daima\003\003\源.cpp(73): warning C4101: “m”: 未引用的局部变量
+d:\daima\003\003\源.cpp(73): warning C4101: “n”: 未引用的局部变量
+  003.vcxproj -> D:\daima\003\Debug\003.exe
